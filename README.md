@@ -1,8 +1,9 @@
 # OSS_toast-ui-editor-react
-**OSS 2020-2 project || TOAST UI Editor for react(REACT로 TOAST UI Editor 사용하기)**
-  
-영상1(WYSIWYG와 TOAST UI Editor 설치) 실습 코드 -> **video1** branch  
-영상2(Editor content를 state로와 플러그인 설치) 실습 코드 -> **video2** branch  
+**OSS 2020-2 project || TOAST UI Editor for react(REACT로 TOAST UI Editor 사용하기)**  
+
+
+[영상1](https://youtu.be/xQammL-kqYE)(WYSIWYG와 TOAST UI Editor 설치) 실습 코드 -> **video1** branch  
+[영상2](https://youtu.be/v9ikVR2BGTU)(Editor content를 state로와 플러그인 설치) 실습 코드 -> **video2** branch  
 
 ***
 
@@ -12,8 +13,8 @@ SW캡스톤디자인 프로젝트를 진행하면서 해당 프로젝트에 오�
 
 ## 영상 구성
 영상은 총 **두 편**이다.  
-**첫 번째 영상**에서는 WYSIWYG이 무엇인지와 react 앱을 만든 후 TOAST UI Editor를 설치하는 과정을 다룬다.   
-**두 번째 영상**에서는 TOAST UI Editor의 content를 component의 state에 저장하는 방법과 TOAST UI Editor에서 제공하는 5가지 플러그인 중 2가지를 설치하는 과정을 다룬다.  
+[첫 번째 영상](https://youtu.be/xQammL-kqYE)에서는 WYSIWYG이 무엇인지와 react 앱을 만든 후 TOAST UI Editor를 설치하는 과정을 다룬다.   
+[두 번째 영상](https://youtu.be/v9ikVR2BGTU)에서는 TOAST UI Editor의 content를 component의 state에 저장하는 방법과 TOAST UI Editor에서 제공하는 5가지 플러그인 중 2가지를 설치하는 과정을 다룬다.  
 
 (기회가 된다면 viewer component를 사용하는 방법도 다루고 영어 버전의 영상을 제작해보고 싶다)  
 
